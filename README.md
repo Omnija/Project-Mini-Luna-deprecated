@@ -6,7 +6,7 @@ This is a Project Modpack made of all of the communities contributions.
 I do not take credit for any of these models, and thank the contributers on my behalf,
 making this project possible.
 
-### What's Working
+### Features
 Expanding every characters to have 16 costume slots.
 
 ### Compatibility
@@ -17,11 +17,11 @@ Omnija & Sotaeko
 
 ## Screenshots
 
-## Currently List
+## Current List
 
 (Mario)
-* Builder
-* Splatton Squids
+* Bunny
+* Splatoon Squids
 * Robo
 * Bones
 
