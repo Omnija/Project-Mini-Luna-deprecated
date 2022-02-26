@@ -28,7 +28,7 @@ Omnija & Sotaeko
 (Luigi)
 * Mr L
 
-(Ryu-)
+(Ryu)
 * Ken
 
 (Ganondorf)
