@@ -27,6 +27,7 @@ Omnija & Sotaeko
 
 (Luigi)
 * Mr L
+* Bones
 
 (Ryu)
 * Ken
