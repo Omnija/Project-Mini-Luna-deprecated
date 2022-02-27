@@ -1,16 +1,15 @@
-# Project Luna Mini
+# Project Mini Luna
 ![ScreenShot](https://i.imgur.com/dK5Jkp4.png)
 
 ### Notes
-This is a Project Modpack made of all of the communities contributions.
-I do not take credit for any of these models, and thank the contributers on my behalf,
-making this project possible.
+This project is a modpack made up of communities contributions.
+We do not take credit for any of the added models, and thank the contributers on our behalf for making this project possible.
 
 ### Features
-Expanding every characters to have 16 costume slots.
+Expanding every character to have 16 costume slots.
 
 ### Compatibility
-DLC & Update 1.7
+Update 1.7 & DLC
 
 ### Maintained by
 Omnija & Sotaeko
@@ -20,7 +19,7 @@ Omnija & Sotaeko
 ## Current List
 
 (Mario)
-* Bunny
+* Bunny -temp filler(Builder Mario crashes game)
 * Splatoon Squids
 * Robo
 * Bones
