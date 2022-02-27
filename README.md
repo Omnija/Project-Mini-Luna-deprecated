@@ -3,6 +3,7 @@
 
 ### Notes
 This project is a modpack made up of communities contributions.
+
 We do not take credit for any of the added models, and thank the contributers on our behalf for making this project possible.
 
 ### Features
