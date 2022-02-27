@@ -35,3 +35,6 @@ Omnija & Sotaeko
 (Ganondorf)
 * Pig Ganon
 * OOT 3D Ganon
+
+(Donkey Kong)
+* Bonkers
