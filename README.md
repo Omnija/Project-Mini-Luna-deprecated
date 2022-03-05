@@ -38,3 +38,10 @@ Omnija & Sotaeko
 
 (Donkey Kong)
 * Bonkers
+
+(Little Mac)
+* Doc Louis (H07)
+* Hooded Wire Mac
+
+(Sonic)
+* Shadow
