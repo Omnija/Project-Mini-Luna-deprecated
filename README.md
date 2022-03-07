@@ -9,6 +9,8 @@ We do not take credit for any of the added models, and thank the contributers on
 ### Features
 Expanding every character to have 16 costume slots.
 
+Added Playable Mii Enemy Fighters to DLC
+
 ### Compatibility
 Update 1.7 & DLC
 
@@ -44,4 +46,7 @@ Omnija & Sotaeko
 * Hooded Wire Mac
 
 (Sonic)
-* Shadow
+* Shadow - CSP Not Showing
+
+(Bayonetta)
+* Uncensored over h00, 04-07
