@@ -53,4 +53,4 @@ Omnija & Sotaeko
 * Link Sonic
 
 (Bayonetta)
-* Uncensored over h00, 04-07
+* Uncensored all default
