@@ -7,7 +7,7 @@ This project is a modpack made up of communities contributions.
 We do not take credit for any of the added models, and thank the contributers on our behalf for making this project possible.
 
 ### Features
-Expanding every character to have 16 costume slots.
+Expanding every character to have extra costume slots.
 
 Added Playable Mii Enemy Fighters to DLC
 
@@ -17,12 +17,15 @@ Update 1.7 & DLC
 ### Maintained by
 Omnija & Sotaeko
 
+### Known Issues
+* Currently not all CSP's are displaying
+
 ## Screenshots
 
-## Current List
+## Current Added List
 
 (Mario)
-* Bunny -temp filler(Builder Mario crashes game)
+* Bunny -temp filler (Builder Mario crashes game)
 * Splatoon Squids
 * Robo
 * Bones
@@ -36,7 +39,7 @@ Omnija & Sotaeko
 
 (Ganondorf)
 * Pig Ganon
-* OOT 3D Ganon
+* OOT 3D Ganon (2 reds? people suck at recolours)
 
 (Donkey Kong)
 * Bonkers
@@ -44,9 +47,10 @@ Omnija & Sotaeko
 (Little Mac)
 * Doc Louis (H07)
 * Hooded Wire Mac
+* Spring Arm
 
 (Sonic)
-* Shadow - CSP Not Showing
+* Link Sonic
 
 (Bayonetta)
 * Uncensored over h00, 04-07
