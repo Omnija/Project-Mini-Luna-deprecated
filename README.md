@@ -38,8 +38,7 @@ Omnija & Sotaeko
 * Ken
 
 (Ganondorf)
-* Pig Ganon
-* OOT 3D Ganon (2 reds? people suck at recolours)
+* Pig Ganon (Smash3C Port)
 
 (Donkey Kong)
 * Bonkers
