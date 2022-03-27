@@ -56,3 +56,6 @@ Omnija & Sotaeko
 
 (Captain Falcon)
 * Blaziken (No icon Recolors and need to fix csp)
+
+(Peach)
+* Playboy Bunny
