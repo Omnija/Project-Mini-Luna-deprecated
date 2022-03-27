@@ -49,7 +49,7 @@ Omnija & Sotaeko
 * Spring Arm
 
 (Sonic)
-* Link Sonic
+* Link Sonic - CSP not showing
 
 (Bayonetta)
 * Uncensored all default
@@ -58,4 +58,7 @@ Omnija & Sotaeko
 * Blaziken (No icon Recolors and need to fix csp)
 
 (Peach)
-* Playboy Bunny
+* Playboy Bunny - CSP not showing
+
+(Mewtwo)
+* Armoured Mewtwo
