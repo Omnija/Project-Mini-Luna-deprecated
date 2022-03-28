@@ -25,14 +25,10 @@ Omnija & Sotaeko
 ## Current Added List
 
 (Mario)
-* Bunny -temp filler (Builder Mario crashes game)
 * Splatoon Squids
-* Robo
-* Bones
 
 (Luigi)
 * Mr L
-* Bones
 
 (Ryu)
 * Ken
